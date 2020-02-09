@@ -1,5 +1,4 @@
 # Arabic Punctuation Prediction
-Sequence to sequence model for Arabic punctuation prediction.
 ------
 1. [Project Overview](#ProjectOverview)
 2. [Installation](#installation)
@@ -39,4 +38,4 @@ We trained our model using 10 epoch with 256 batch size. We use categorical cros
 ![result2](https://user-images.githubusercontent.com/42017072/74092065-5a7cc200-4ad0-11ea-81a3-39c55cc244e1.PNG)
 
 ## 6. Acknowledgements <a name="acknowledgements"></a> 
-I wish to thank [Tashkeela](https://www.kaggle.com/linuxscout/tashkeela) for dataset. Also, thanks for [Udacity](https://www.udacity.com/) for advice. For more details about this project can read this [article](https://medium.com/@ZarahShibli/what-comes-after-the-word-8ecff09d5dd).
+I wish to thank [Tashkeela](https://www.kaggle.com/linuxscout/tashkeela) for dataset. Also, thanks for [Udacity](https://www.udacity.com/) for advice. For more details about this project can read this [article](https://medium.com/@ZarahShibli/what-comes-after-the-word-61c5adc9b8a0).
